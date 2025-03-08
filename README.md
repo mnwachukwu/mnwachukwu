@@ -2,8 +2,8 @@
 
 I am a professional software developer. I also develop software for fun.
 
-- [Pluperfect.dev](https://pluperfect.dev/) - This is my personal portfolio website. (Developing software that is *plus quam perfectum*)
 - [PokéStory](https://pokestory.net/) - My main side project. ❤
+- [Pluperfect.dev](https://pluperfect.dev/) - This is my personal portfolio website. (Developing software that is *plus quam perfectum*)
 
 <!--
 **mnwachukwu/mnwachukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
