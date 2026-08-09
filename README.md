@@ -2,7 +2,7 @@
 
 I am a professional software developer. I also develop software for fun.
 
-- [PokéStory](https://pokestory.net/) - My main side project. ❤
+- [PokéStory](https://pokestory.net/) - My main side project. ❤ An online Pokémon game.
 - [Profi-C](https://profi-c.pluperfect.dev/) - A programming language I invented.
 - [Pluperfect Development](https://pluperfect.dev/) - My personal portfolio website. (Developing software that is *plus quam perfectum*)
 
