@@ -3,9 +3,11 @@
 I am a professional software developer. I also develop software for fun.
 
 - [PokéStory](https://pokestory.net/) - My main side project. ❤
-- [Pluperfect.dev](https://pluperfect.dev/) - This is my personal portfolio website. (Developing software that is *plus quam perfectum*)
+- [Pluperfect Development](https://pluperfect.dev/) - This is my personal portfolio website. (Developing software that is *plus quam perfectum*)
+- [Profi-C](https://profi-c.pluperfect.dev/) - A programming language I created that grew out of a summer course for my bachelor's degree on the concepts of programming languages.
 
 <!--
+- [Mirage Source Remastered](#) - A game engine inspired by one from [20 years ago](#) which helped teach me how to code.
 **mnwachukwu/mnwachukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
