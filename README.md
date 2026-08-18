@@ -7,6 +7,8 @@ I am a professional software developer. I also develop software for fun.
 - [Mirage Source Remastered](https://mirage.pluperfect.dev/) - A game engine inspired by [one from the early 2000s](https://github.com/mnwachukwu/mirage-source-v3.0.3) which helped teach me how to code.
 - [Pluperfect Development](https://pluperfect.dev/) - My personal portfolio website. (Developing software that is *plus quam perfectum*.)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y3V225AFLR)
+
 <!--
 **mnwachukwu/mnwachukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
