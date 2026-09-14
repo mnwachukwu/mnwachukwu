@@ -5,7 +5,7 @@ I am a professional software developer. I also develop software for fun.
 - [PokéStory](https://pokestory.net/) - My main side project. ❤ An online Pokémon game.
 - [Compass](https://compass.pluperfect.dev/) - A programming language I invented.
 - [Mirage Core](https://core.mirage.pluperfect.dev/) - A 2D MMORPG engine based on the work did for Mirage Source Remastered.
-- [Mirage Source Remastered](https://mirage.pluperfect.dev/) - A 2D MMORPG maker inspired by [a game the early 2000s](https://github.com/mnwachukwu/mirage-source-v3.0.3) which helped teach me how to code.
+- [Mirage Source Remastered](https://mirage.pluperfect.dev/) - A 2D MMORPG maker inspired by [a game from the early 2000s](https://github.com/mnwachukwu/mirage-source-v3.0.3) which helped teach me how to code.
 - [Pluperfect Development](https://pluperfect.dev/) - My personal portfolio website. (Developing software that is *plus quam perfectum*.)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mnwachukwu/tip)
